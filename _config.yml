@@ -1,1 +1,14 @@
 remote_theme: daattali/beautiful-jekyll
+
+# beautiful-jekyll options
+title: lumen
+author: Jaiden
+
+navbar-links:
+  Home: "home"
+  Help:
+    - FAQ: "faq"
+    - Contact: "contact"
+
+avatar: "icon.png"
+round-avatar: true
