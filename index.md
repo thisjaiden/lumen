@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Lumen
 
-You can use the [editor on GitHub](https://github.com/thisjaiden/lumen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Future
+Introducing a whole new **experience**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### World Generation
 
-### Markdown
+Nooks and crannies more filled with content than ever before. Explore to your hearts content.
+<br>
+![img](img1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Modules
 
-```markdown
-Syntax highlighted code block
+Play with *magic*, invent with **technology**, and discorver a whole world of *decoratives*.
+<br>
+![img](img2)
 
-# Header 1
-## Header 2
-### Header 3
+### Community
 
-- Bulleted
-- List
+More tools to trade, share, collaborate, and experience together. With an expanded player list, there's more community than previously possible.
+<br>
+![img](img3)
 
-1. Numbered
-2. List
+### Intrested?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thisjaiden/lumen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Consider [applying](apply) to joining us for Season 2: Lumen. We'd be happy to have you.  
+Not sure? You can always check out the [faq](faq) or ask questions with our [contacts](contact).  
+Desperate to know more? You can go to the [details dropper](inf) for all the leaks.
