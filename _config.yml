@@ -12,3 +12,14 @@ navbar-links:
 
 avatar: "icon.png"
 round-avatar: true
+
+navbar-col: "#000000"
+navbar-text-col: "#808080"
+navbar-border-col: "#080808"
+page-col: "#262829"
+text-col: "#6d7778"
+link-col: "#4596a1"
+hover-col: "#3a808a"
+footer-col: "#000000"
+footer-text-col: "#808080"
+footer-link-col: "#808080"
