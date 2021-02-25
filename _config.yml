@@ -1,11 +1,11 @@
 remote_theme: daattali/beautiful-jekyll
 
 # beautiful-jekyll options
-title: lumen
+title: Lumen
 author: Jaiden
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   Help:
     - FAQ: "faq"
     - Contact: "contact"
