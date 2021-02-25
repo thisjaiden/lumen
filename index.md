@@ -1,7 +1,5 @@
-# Lumen
-
-## Welcome to the Future
-Introducing a whole new **experience**.
+## Welcome to Lumen
+Introducing a whole new Minecraft **experience**.
 
 ### World Generation
 
