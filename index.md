@@ -1,4 +1,5 @@
-## Welcome to Lumen
+## Welcome to Lumen  
+
 Introducing a whole new Minecraft **experience**.
 
 ### World Generation
