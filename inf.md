@@ -4,8 +4,9 @@ Everything to know about Lumen!
 
 ### Modules
 ##### Modified or Taken
-- Gravestones (ft. fafik77 :heart:)
-- Sittable Stairs and Slabs (via. ChairS, ft. TheDiamondPlayables :heart:)
+- Gravestones (ft. fafik77 ❤️)
+- Sittable Stairs and Slabs (via. ChairS, ft. TheDiamondPlayables ❤️)  
+
 ##### Homemade
 - Single Player Sleep
 - Hand Dynamics
